@@ -1,7 +1,6 @@
-# Python DSA Problems
+# DSA Problems
 
-This repository contains Data Structures and Algorithms problems
-solved using Python.
+This repository contains solved Data Structures and Algorithms problems.
 
 ## Topics Covered
 - Arrays
