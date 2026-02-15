@@ -22,6 +22,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ In progress 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantt02/dsa-questions/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
