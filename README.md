@@ -27,6 +27,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantt02/dsa-questions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +45,8 @@ In progress 🚀
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
