@@ -23,11 +23,13 @@ In progress 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,16 @@ In progress 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
