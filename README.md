@@ -39,6 +39,7 @@ In progress 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantt02/dsa-questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +64,8 @@ In progress 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
