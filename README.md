@@ -23,6 +23,7 @@ In progress 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ In progress 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantt02/dsa-questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
