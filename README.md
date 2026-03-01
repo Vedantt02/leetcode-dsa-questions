@@ -24,6 +24,7 @@ In progress 🚀
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ In progress 🚀
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
