@@ -26,6 +26,7 @@ In progress 🚀
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantt02/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Vedantt02/dsa-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -84,4 +85,8 @@ In progress 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vedantt02/dsa-questions/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vedantt02/dsa-questions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
