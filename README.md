@@ -61,11 +61,13 @@ In progress 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vedantt02/dsa-questions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vedantt02/dsa-questions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
 |  |
