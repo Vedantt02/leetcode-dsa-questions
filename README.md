@@ -43,6 +43,7 @@ In progress 🚀
 | [0242-valid-anagram](https://github.com/Vedantt02/dsa-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
@@ -79,6 +80,7 @@ In progress 🚀
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vedantt02/dsa-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
 |  |
@@ -98,6 +100,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -120,4 +123,8 @@ In progress 🚀
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
