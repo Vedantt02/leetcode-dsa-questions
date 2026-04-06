@@ -22,6 +22,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Vedantt02/dsa-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -132,4 +134,8 @@ In progress 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
