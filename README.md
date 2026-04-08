@@ -88,6 +88,7 @@ In progress 🚀
 | [0242-valid-anagram](https://github.com/Vedantt02/dsa-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2299-strong-password-checker-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2299-strong-password-checker-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
 |  |
