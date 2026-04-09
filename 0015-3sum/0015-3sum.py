@@ -2,17 +2,23 @@ class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
         result = []
+        n = len(nums)
 
-        for i in range(len(nums)):
-            # 🔥 Optimization: break early
+        for i in range(n - 2):  # ✅ FIXED
             if nums[i] > 0:
                 break
 
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
+            # Pruning
+            if nums[i] + nums[i+1] + nums[i+2] > 0:
+                break
+            if nums[i] + nums[n-1] + nums[n-2] < 0:
+                continue
+
             left = i + 1
-            right = len(nums) - 1
+            right = n - 1
 
             while left < right:
                 total = nums[i] + nums[left] + nums[right]
