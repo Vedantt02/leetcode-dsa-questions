@@ -23,6 +23,7 @@ In progress 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@ In progress 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vedantt02/dsa-questions/tree/master/0141-linked-list-cycle) |
@@ -97,6 +99,7 @@ In progress 🚀
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vedantt02/dsa-questions/tree/master/0217-contains-duplicate) |
