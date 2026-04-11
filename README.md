@@ -34,6 +34,7 @@ In progress 🚀
 | [0283-move-zeroes](https://github.com/Vedantt02/dsa-questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ In progress 🚀
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
 ## Dynamic Programming
 |  |
 | ------- |
