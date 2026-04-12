@@ -25,6 +25,7 @@ In progress 🚀
 | [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Vedantt02/dsa-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantt02/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ In progress 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vedantt02/dsa-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ In progress 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vedantt02/dsa-questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vedantt02/dsa-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantt02/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
