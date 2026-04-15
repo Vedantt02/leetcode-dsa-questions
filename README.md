@@ -35,6 +35,7 @@ In progress 🚀
 | [0283-move-zeroes](https://github.com/Vedantt02/dsa-questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Vedantt02/dsa-questions/tree/master/0704-binary-search) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Vedantt02/dsa-questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
 ## Hash Table
@@ -141,6 +142,7 @@ In progress 🚀
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Vedantt02/dsa-questions/tree/master/0704-binary-search) |
 ## Queue
 |  |
 | ------- |
