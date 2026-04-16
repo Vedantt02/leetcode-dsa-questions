@@ -25,6 +25,7 @@ In progress 🚀
 | [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vedantt02/dsa-questions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Vedantt02/dsa-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ In progress 🚀
 | ------- |
 | [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vedantt02/dsa-questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vedantt02/dsa-questions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vedantt02/dsa-questions/tree/master/0202-happy-number) |
