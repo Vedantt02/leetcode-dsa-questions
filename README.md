@@ -64,6 +64,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedantt02/dsa-questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vedantt02/dsa-questions/tree/master/0070-climbing-stairs) |
