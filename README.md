@@ -27,6 +27,7 @@ In progress 🚀
 | [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vedantt02/dsa-questions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Vedantt02/dsa-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vedantt02/dsa-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ In progress 🚀
 | [0015-3sum](https://github.com/Vedantt02/dsa-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vedantt02/dsa-questions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Vedantt02/dsa-questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vedantt02/dsa-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedantt02/dsa-questions/tree/master/0141-linked-list-cycle) |
@@ -136,6 +138,7 @@ In progress 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vedantt02/dsa-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vedantt02/dsa-questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vedantt02/dsa-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantt02/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,8 +169,13 @@ In progress 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedantt02/dsa-questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vedantt02/dsa-questions/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantt02/dsa-questions/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vedantt02/dsa-questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
