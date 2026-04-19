@@ -31,6 +31,7 @@ In progress 🚀
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantt02/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vedantt02/dsa-questions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantt02/dsa-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vedantt02/dsa-questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vedantt02/dsa-questions/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ In progress 🚀
 | [0088-merge-sorted-array](https://github.com/Vedantt02/dsa-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vedantt02/dsa-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedantt02/dsa-questions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantt02/dsa-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Vedantt02/dsa-questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vedantt02/dsa-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
@@ -146,6 +148,7 @@ In progress 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantt02/dsa-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Vedantt02/dsa-questions/tree/master/0704-binary-search) |
