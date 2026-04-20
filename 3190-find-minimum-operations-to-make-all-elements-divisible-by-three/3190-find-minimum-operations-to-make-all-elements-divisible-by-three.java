@@ -6,7 +6,7 @@ class Solution {
             int mod = num % 3;
 
             if (mod != 0) {
-                count += 1;
+                count++;
             }
         }
 
