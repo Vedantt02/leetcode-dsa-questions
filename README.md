@@ -41,6 +41,7 @@ In progress 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Vedantt02/dsa-questions/tree/master/0704-binary-search) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Vedantt02/dsa-questions/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vedantt02/dsa-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Vedantt02/dsa-questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
@@ -127,6 +128,7 @@ In progress 🚀
 | [0242-valid-anagram](https://github.com/Vedantt02/dsa-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
@@ -145,6 +147,7 @@ In progress 🚀
 | [0053-maximum-subarray](https://github.com/Vedantt02/dsa-questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vedantt02/dsa-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantt02/dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Memoization
 |  |
 | ------- |
@@ -177,6 +180,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantt02/dsa-questions/tree/master/0011-container-with-most-water) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vedantt02/dsa-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Monotonic Stack
 |  |
