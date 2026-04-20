@@ -44,6 +44,7 @@ In progress 🚀
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vedantt02/dsa-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Vedantt02/dsa-questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ In progress 🚀
 | [0070-climbing-stairs](https://github.com/Vedantt02/dsa-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vedantt02/dsa-questions/tree/master/0202-happy-number) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
