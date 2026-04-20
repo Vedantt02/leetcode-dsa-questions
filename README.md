@@ -41,6 +41,7 @@ In progress 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Vedantt02/dsa-questions/tree/master/0704-binary-search) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Vedantt02/dsa-questions/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Vedantt02/dsa-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Vedantt02/dsa-questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
 ## Hash Table
@@ -174,6 +175,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantt02/dsa-questions/tree/master/0011-container-with-most-water) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Vedantt02/dsa-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Monotonic Stack
 |  |
 | ------- |
