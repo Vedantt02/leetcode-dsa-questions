@@ -51,6 +51,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vedantt02/dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Vedantt02/dsa-questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
@@ -105,6 +106,7 @@ In progress 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vedantt02/dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vedantt02/dsa-questions/tree/master/0020-valid-parentheses) |
@@ -195,4 +197,8 @@ In progress 🚀
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vedantt02/dsa-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vedantt02/dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
