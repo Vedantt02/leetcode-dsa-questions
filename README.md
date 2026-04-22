@@ -35,6 +35,7 @@ In progress 🚀
 | [0136-single-number](https://github.com/Vedantt02/dsa-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantt02/dsa-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vedantt02/dsa-questions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Vedantt02/dsa-questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vedantt02/dsa-questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -165,6 +166,7 @@ In progress 🚀
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedantt02/dsa-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Vedantt02/dsa-questions/tree/master/0704-binary-search) |
@@ -203,4 +205,9 @@ In progress 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantt02/dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
