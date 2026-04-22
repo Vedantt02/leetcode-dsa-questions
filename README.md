@@ -78,6 +78,7 @@ In progress 🚀
 | [0066-plus-one](https://github.com/Vedantt02/dsa-questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vedantt02/dsa-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vedantt02/dsa-questions/tree/master/0202-happy-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/Vedantt02/dsa-questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
@@ -141,6 +142,7 @@ In progress 🚀
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Vedantt02/dsa-questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
 ## Dynamic Programming
