@@ -62,6 +62,7 @@ In progress 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Vedantt02/dsa-questions/tree/master/0567-permutation-in-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
@@ -105,6 +106,7 @@ In progress 🚀
 | [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Vedantt02/dsa-questions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ In progress 🚀
 | [0242-valid-anagram](https://github.com/Vedantt02/dsa-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Vedantt02/dsa-questions/tree/master/0567-permutation-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2299-strong-password-checker-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
@@ -206,6 +209,7 @@ In progress 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantt02/dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Vedantt02/dsa-questions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
