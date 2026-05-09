@@ -108,6 +108,7 @@ In progress 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Vedantt02/dsa-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vedantt02/dsa-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Vedantt02/dsa-questions/tree/master/0567-permutation-in-string) |
+| [0925-long-pressed-name](https://github.com/Vedantt02/dsa-questions/tree/master/0925-long-pressed-name) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ In progress 🚀
 | [0344-reverse-string](https://github.com/Vedantt02/dsa-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedantt02/dsa-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vedantt02/dsa-questions/tree/master/0567-permutation-in-string) |
+| [0925-long-pressed-name](https://github.com/Vedantt02/dsa-questions/tree/master/0925-long-pressed-name) |
 | [2299-strong-password-checker-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2299-strong-password-checker-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vedantt02/dsa-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
