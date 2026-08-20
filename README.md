@@ -114,6 +114,7 @@ In progress 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedantt02/dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Vedantt02/leetcode-dsa-questions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/Vedantt02/dsa-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vedantt02/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vedantt02/dsa-questions/tree/master/0020-valid-parentheses) |
