@@ -49,6 +49,7 @@ In progress 🚀
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Vedantt02/dsa-questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2293-min-max-game](https://github.com/Vedantt02/dsa-questions/tree/master/2293-min-max-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vedantt02/leetcode-dsa-questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ In progress 🚀
 | [1688-count-of-matches-in-tournament](https://github.com/Vedantt02/dsa-questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vedantt02/dsa-questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedantt02/dsa-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vedantt02/leetcode-dsa-questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
