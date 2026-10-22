@@ -224,4 +224,8 @@ In progress 🚀
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantt02/dsa-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vedantt02/dsa-questions/tree/master/0238-product-of-array-except-self) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0607-sales-person](https://github.com/Vedantt02/leetcode-dsa-questions/tree/main/0607-sales-person/) | Easy |
 <!---LeetCode Topics End-->
