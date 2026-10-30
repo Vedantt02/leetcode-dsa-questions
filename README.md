@@ -227,5 +227,6 @@ In progress 🚀
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/Vedantt02/leetcode-dsa-questions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0607-sales-person](https://github.com/Vedantt02/leetcode-dsa-questions/tree/main/0607-sales-person/) | Easy |
 <!---LeetCode Topics End-->
